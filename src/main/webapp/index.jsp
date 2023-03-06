@@ -10,7 +10,7 @@
   <table cellspacing="20">
     <tr>
       <td><img src="images/ganesh.png" height="200px" width="200px" alt="Ganesh profile picture"></td>
-      <td><h1>Ganesh Murugan</h1>
+      <td><h1>Balaji Murugan</h1>
       <p><em>A<strong> Devops Engineer</strong> and Working in <a href="https://www.nulogic.io/" target="_blank">NUlogic.</a></em></p></td>
     </tr>
   </table>
