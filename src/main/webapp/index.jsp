@@ -14,7 +14,7 @@
       <p><em>A<strong> Devops Engineer</strong> and Working in <a href="https://www.nulogic.io/" target="_blank">NUlogic.</a></em></p></td>
     </tr>
   </table>
-  <p> </p>
+  <p>I am Ganesh I have Completed B.sc Computer Science. And iam a Gamer</p>
   <hr>
   <h3>Bookes and Teaching</h3>
   <ul>
