@@ -52,7 +52,7 @@
         </tr>
         <tr>
           <td>Photogtaphy</td>
-          <td>★★★★</td>
+          <td>★★★★☆</td>
         </tr>
   </table>
   <hr>
