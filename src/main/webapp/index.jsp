@@ -11,11 +11,10 @@
     <tr>
       <td><img src="images/ganesh.png" height="200px" width="200px" alt="Ganesh profile picture"></td>
       <td><h1>Ganesh Murugan</h1>
-      <p><em>A<strong> Web developer</strong> and Working in <a href="https://www.accenture.com/" target="_blank">Accenture.</a></em></p></td>
+      <p><em>A<strong> Devops Engineer</strong> and Working in <a href="https://www.nulogic.io/" target="_blank">NUlogic.</a></em></p></td>
     </tr>
   </table>
-  <p>I am Ganesh working in accenture. I want to become a web developer after i complete this course in <strong><a href="https://www.udemy.com/">Udemy</a></strong>. Then Iam going to Start learn Blender.
-  Blender is the Design softwere which can create a beautiful environment. After i complete this two then I start to learn to create Android Apps. </p>
+  <p> </p>
   <hr>
   <h3>Bookes and Teaching</h3>
   <ul>
@@ -34,12 +33,8 @@
         </tr>
     </thead>
     <tbody>
-      <tr>
-        <td>2010-2013</th>
-        <td>Lead Developer</th>
-    </tr>
     <tr>
-      <td>2018</td>
+      <td>2019</td>
       <td>AWS & Devops Engineer</td>
     </tr>
     </tbody>
